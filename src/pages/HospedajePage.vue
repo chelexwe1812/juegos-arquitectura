@@ -16,6 +16,7 @@
 </template>
 
 <script setup>
+
 defineOptions({
     name: 'FixturePage'
 });
